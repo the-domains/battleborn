@@ -1,0 +1,28 @@
+name: battleborn
+favicon: null
+layout_spectrum: 0.9640154093503952
+typography_spectrum: 0.38639862439595163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.925216160248965
+  lightness: 0.31320717791095376
+  saturation: 0.396369312889874
+  rhythmicContrast: 0.8157298334408551
+purpose: []
