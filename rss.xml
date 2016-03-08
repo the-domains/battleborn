@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Performance Perfect is Perfect Performance]]></title>
         <description><![CDATA[Performance Perfect is Perfect Performance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://battleborn.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:41:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 16:16:40 GMT</lastBuildDate>
+        <atom:link href="http://battleborn.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14470911-ab50-44ad-80a0-5b3cce273003.jpg">]]></description>
-            <link>undefinedca7ccf35-e127-42ce-8d2e-ce367f3a560a/index.html</link>
+            <title><![CDATA[Hello, is there anyone there?]]></title>
+            <description><![CDATA[<article><h1>Hello, is there anyone there?</h1><p>Just wanted to give you a shout out of what this is going to be. This will be my platform to discuss or deliver my feelings on a variety of subjects. Working, Designing, Listening, Watching and Consuming. All of it in one single place for myself and anyone else who is bored enough to care.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd7a029a49cf179e17651e2a08147ec5a3dbb5e.jpg"></article>]]></description>
+            <link>http://battleborn.me/ca7ccf35-e127-42ce-8d2e-ce367f3a560a/index.html</link>
             <guid isPermaLink="false">ca7ccf35-e127-42ce-8d2e-ce367f3a560a</guid>
-            <pubDate>Mon, 07 Mar 2016 19:40:05 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 16:15:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
