@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I had the opportunity to work on designs for a new brewery. This was my favorite concept of the bunch. I wanted to incorporate the lighthouse theme as the stem of the bottle.\_"
-datePublished: '2016-03-11T19:14:21.128Z'
-dateModified: '2016-03-11T19:14:01.359Z'
+datePublished: '2016-03-16T20:36:50.182Z'
+dateModified: '2016-03-11T19:14:29.819Z'
 title: Handcrafted in Long Island
 author: []
 sourcePath: _posts/2016-03-11-handcrafted-in-long-island.md
