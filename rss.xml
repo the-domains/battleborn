@@ -4,8 +4,15 @@
         <description><![CDATA[battleborn.me]]></description>
         <link>http://battleborn.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 21:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 21:06:09 GMT</lastBuildDate>
         <atom:link href="http://battleborn.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8949f5df-09f6-439e-bec2-a354f7660567.jpg">]]></description>
+            <link>http://battleborn.me/ddf193d7-e943-4610-b593-47cf34d94c6c/index.html</link>
+            <guid isPermaLink="false">ddf193d7-e943-4610-b593-47cf34d94c6c</guid>
+            <pubDate>Thu, 17 Mar 2016 21:06:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c986f4a6538598d405bebe44a63364d063f7fb67.jpg" alt="" title="" />]]></description>
