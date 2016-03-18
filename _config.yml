@@ -1,29 +1,41 @@
-name: battleborn
-favicon: null
-layout_spectrum: 0.26352
-typography_spectrum: 0.52694
 title: battleborn.me
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#d3d3d3'
     - '#969696'
     - '#24160d'
     - '#ec1b23'
-  brandStrength: 0.5
   lightness: 0.6875
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: battleborn
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.52694
+layout_spectrum: 0.9824561
