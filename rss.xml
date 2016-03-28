@@ -4,8 +4,15 @@
         <description><![CDATA[battleborn.me]]></description>
         <link>http://battleborn.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 17:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 14:08:32 GMT</lastBuildDate>
         <atom:link href="http://battleborn.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I have a bad feeling about this.]]></title>
+            <description><![CDATA[<article><h1>I have a bad feeling about this.</h1><p>The Grid is like my 13-year old cousin who asked to design my website for me because she's learning code and she wants to get experience.</p></article>]]></description>
+            <link>http://battleborn.me/i-have-a-bad-feeling-about-this/index.html</link>
+            <guid isPermaLink="false">bdd5e03d-2f43-4cfb-b5eb-4e8e6aa91e50</guid>
+            <pubDate>Mon, 28 Mar 2016 14:07:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba33e7df-a6a9-4bfd-b1b1-4a6ff50126ee.jpg" alt="" title="">]]></description>
