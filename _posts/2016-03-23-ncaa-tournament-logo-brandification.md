@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Really enjoying the thoughtful process of creation of these logos.\_"
-datePublished: '2016-03-28T16:40:17.634Z'
-dateModified: '2016-03-28T16:40:08.049Z'
+datePublished: '2016-03-28T16:40:44.747Z'
+dateModified: '2016-03-28T16:40:25.211Z'
 title: NCAA Tournament Logo Brandification
 author: []
 sourcePath: _posts/2016-03-23-ncaa-tournament-logo-brandification.md
