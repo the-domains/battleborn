@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T20:24:30.166Z'
-dateModified: '2016-03-28T20:24:24.755Z'
+datePublished: '2016-03-28T20:25:04.592Z'
+dateModified: '2016-03-28T20:24:53.629Z'
 title: IGN Unlocked Episode 238
 author: []
+sourcePath: _posts/2016-03-28-ign-unlocked-episode-238.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-ign-unlocked-episode-238.md
-published: true
 url: ign-unlocked-episode-238/index.html
 _type: Article
 
